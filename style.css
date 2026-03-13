@@ -1,0 +1,17 @@
+        .mapa {
+            background-image: url('./img/inicio.png');
+             background-size: cover;
+        }
+        .poke {
+            font-size: 20px;
+            color: white;
+        }
+        .tituloP {
+            font-size: 50px;
+            color: white;
+        }
+   
+.tituloP {
+  font-family: "Bitcount Ink", system-ui;
+  font-size: auto;
+}
