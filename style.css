@@ -5,36 +5,36 @@
         .poke {
             font-size: 20px;
             color: white;
-        }
-        .tituloP {
-            font-size: 50px;
-            color: white;
-        }
-   
+        }   
     .tituloP {
-    font-family: "Bitcount Ink", system-ui;
-    font-size: auto;
+  font-family: "Jersey 10", sans-serif;
+    font-size: 100px;
     text-align: center;
-    }
+  font-style: normal;
+  background-color: #05050575;
+    margin: 4px 2px;
+}
+
     .pagina {
-    background-image: url('./img/fondopapel.png');
-    background-size: cover;
+    background-color: #FFF8DC;
 }
 .titulo1 {
-font-family: "Gravitas One", serif;
-text-align: center;
-
+  font-family: "Jersey 10", sans-serif;
+  font-size: 48px;
+  font-style: normal;
+  text-align: center;
 }
+
 .fuego {
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    background-color: #ff0000;
+  font-family: "Jersey 10", sans-serif;
+    background-color: #ff7300;
     color: rgb(0, 0, 0);
     border: none;
-    padding: 5px 20px;
+    padding: 5px 10px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-size: 16px;
+    font-size: 30px;
     margin: 4px 2px;
     cursor: pointer;
 }
@@ -43,6 +43,110 @@ text-align: center;
     background-color: #ff0000;
     color: rgb(255, 255, 255);
     padding: 10px 20px;
-    text-align: center;
-    font-size: 16px;
+    font-size: 22px;
+    border: black 2px solid;
+    margin-left: 42%;
+    text-decoration: none;
 }
+.text {
+      font-family: "Jersey 10", sans-serif;
+    font-size: 24px;
+}
+.linea {
+    border: 1px solid black;
+    color: black;
+    width: 100%;
+}
+.evolucion1 {
+    width: 200px;
+    height: 200px;
+}
+.evolucion2 {
+    width: 200px;
+    height: 200px;
+}
+.evo {
+    display: flex;
+    justify-content: center;
+}
+.letraEVO {
+  font-family: "Jersey 10", sans-serif;
+    text-align: center;
+    font-size: 32px;
+}
+.titulo2 {
+  font-family: "Jersey 10", sans-serif;
+    font-size: 30px;
+}
+.pokemon {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    height: auto;
+}
+.Veneno {
+  font-family: "Jersey 10", sans-serif;
+    background-color: #de21ce;
+    color: rgb(0, 0, 0);
+    border: none;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.Fantasma {
+  font-family: "Jersey 10", sans-serif;
+    background-color: #8b047c;
+    color: rgb(0, 0, 0);
+    border: none;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+    margin: 4px 2px;
+    cursor: pointer;
+    }
+    .Psíquico {
+  font-family: "Jersey 10", sans-serif;
+    background-color: #ff65ed;
+    color: rgb(0, 0, 0);
+    border: none;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+    margin: 4px 2px;
+    cursor: pointer;
+    }
+      .Dragón {
+  font-family: "Jersey 10", sans-serif;
+    background-color: #e97a1f;
+    color: rgb(0, 0, 0);
+    border: none;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+    margin: 4px 2px;
+    cursor: pointer;
+    }    .Volador {
+  font-family: "Jersey 10", sans-serif;
+    background-color: #b0acb0;
+    color: rgb(0, 0, 0);
+    border: none;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+    margin: 4px 2px;
+    cursor: pointer;
+    }
