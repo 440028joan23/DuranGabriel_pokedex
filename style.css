@@ -1,18 +1,24 @@
-        .mapa {
-            background-image: url('./img/inicio.png');
-             background-size: cover;
-        }
-        .poke {
-            font-size: 20px;
-            color: white;
-        }   
-    .tituloP {
-  font-family: "Jersey 10", sans-serif;
+.mapa {
+   background-image: url('./img/inicio.png');
+   background-size: cover;
+}
+ .poke {
+    font-size: 20px;
+    color: white;
+}   
+   .tituloP {
+    font-family: "Jersey 10", sans-serif;
     font-size: 100px;
     text-align: center;
-  font-style: normal;
+    font-style: normal;
   background-color: #05050575;
     margin: 4px 2px;
+    display: inline-block;
+    padding:10px 20px 10px 20px;
+    border-radius: 17%;
+}
+.contenedorTitulo {
+text-align: center;
 }
 
     .pagina {
