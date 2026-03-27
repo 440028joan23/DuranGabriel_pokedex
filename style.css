@@ -65,6 +65,12 @@
     font-size: 20px;
     color: white;
 }   
+
+.poke:hover {
+  background-color: rgb(193, 193, 108);
+  font-size: 22px;
+  color: black;
+ }
    .tituloP {
     font-family: "Jersey 10", sans-serif;
     font-size: 100px;
@@ -205,6 +211,32 @@ text-align: center;
     }    .Volador {
   font-family: "Jersey 10", sans-serif;
     background-color: #b0acb0;
+    color: rgb(0, 0, 0);
+    border: none;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+    margin: 4px 2px;
+    cursor: pointer;
+    }
+    .Agua  {
+  font-family: "Jersey 10", sans-serif;
+    background-color: #57b5f3;
+    color: rgb(0, 0, 0);
+    border: none;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+    margin: 4px 2px;
+    cursor: pointer;
+    }
+    .Hielo  {
+  font-family: "Jersey 10", sans-serif;
+    background-color: #57b5f3;
     color: rgb(0, 0, 0);
     border: none;
     padding: 5px 10px;
