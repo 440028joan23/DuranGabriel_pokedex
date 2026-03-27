@@ -236,7 +236,7 @@ text-align: center;
     }
     .Hielo  {
   font-family: "Jersey 10", sans-serif;
-    background-color: #57b5f3;
+    background-color: #adcfe6;
     color: rgb(0, 0, 0);
     border: none;
     padding: 5px 10px;
@@ -247,3 +247,6 @@ text-align: center;
     margin: 4px 2px;
     cursor: pointer;
     }
+  .pokedex:hover {
+    box-shadow: white 0px 0px 20px;
+    transition: 0.5s;}
